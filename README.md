@@ -1,3 +1,5 @@
+![project screenshot](public/images/screenshot.png)
+
 # Shop-local
 
 This README outlines the details of collaborating on this Ember application.
